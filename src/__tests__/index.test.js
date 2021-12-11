@@ -1,4 +1,4 @@
-import {getPercents} from './index.js';
+import {getPercents} from '../index.js';
 
 describe ("Get persent from number", () => {
     it('get 25 persent from 100', () => {
